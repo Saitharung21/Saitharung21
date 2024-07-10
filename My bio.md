@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @Saitharung21
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on coincent 
-- 📫 How to reach me through my linkin
-- 😄 Pronouns: 💫
-- ⚡ Fun fact: 😁
